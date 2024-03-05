@@ -1,0 +1,19 @@
+{
+  "name": "habbittracker",
+  "version": "1.0.0",
+  "description": "a app where u can track someones habbit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-R-e-X/habbit-tracker.git"
+  },
+  "author": "Souvik Hazra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-R-e-X/habbit-tracker/issues"
+  },
+  "homepage": "https://github.com/Mr-R-e-X/habbit-tracker#readme"
+}
